@@ -1,4 +1,4 @@
-<?php get_header();  
+<?php get_header();
 
 			if ( have_posts() ) :
 				// Start the Loop.
@@ -20,6 +20,7 @@
 				//get_template_part( 'content', 'none' );
 
 			endif;
+
 		?>
 <?php
 
